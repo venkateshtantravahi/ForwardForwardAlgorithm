@@ -1,0 +1,7 @@
+activation,Validation Loss,Validation Accuracy,Test Loss,Test Accuracy
+relu,1.5785,53.98,2.1139,55.11
+leaky_relu,1.5749,53.69,2.0517,55.45
+sigmoid,1.8002,34.27,1.6037,42.99
+tanh,1.7762,47.03,2.3569,47.19
+relu_full_grad,nan,14.55,nan,10.00
+t_distribution,129553.6928,21.85,268517.5202,10.00

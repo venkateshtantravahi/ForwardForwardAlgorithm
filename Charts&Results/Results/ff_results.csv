@@ -1,0 +1,13 @@
+activation,Validation Loss,Validation Accuracy,Test Loss,Test Accuracy
+relu_full_grad,1.4643,48.91,1.4319,49.22
+relu_full_grad,1.4217,49.92,1.4062,50.32
+relu_full_grad,2.3026,9.54,2.3026,10.01
+relu_full_grad,1.3723,52.51,1.3454,53.06
+t_distribution,2.3106,9.54,2.3094,10.02
+relu,1.3795,52.39,1.3554,52.49
+relu,1.5502,45.85,1.5287,46.32
+leaky_relu,1.4544,48.86,1.4475,49.17
+sigmoid,2.3294,10.03,2.3291,10
+tanh,2.6598,13.13,2.6580,13.18
+relu_full_grad,1.3640,52.46,1.3459,52.63
+t_distribution,2.2990,11.54,2.2990,10.70
