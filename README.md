@@ -46,7 +46,7 @@ FF/
 
 ## 1. Clone the Repository
 ```plaintext
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/venkateshtantravahi/ForwardForwardAlgorithm.git)
     cd FF
 ```
 
