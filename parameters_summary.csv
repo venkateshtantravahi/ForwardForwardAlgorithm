@@ -1,0 +1,16 @@
+batch_size,learning_rate,weight_decay,epochs,activation,hidden_dim,num_layers,momentum,downstream_learning_rate,downstream_weight_decay,log_file
+200,0.001,0.0003,100,relu_full_grad,1000,3,0.9,0.01,0.003,exp1.txt
+256,0.001,0.001,200,relu_full_grad,512,5,0.9,0.01,0.003,exp2.txt
+256,0.001,0.01,300,relu_full_grad,512,5,0.9,0.01,0.003,exp3.txt
+256,0.001,0.01,300,relu_full_grad,512,6,0.9,0.01,0.003,exp4.txt
+100,0.001,0.003,200,relu_full_grad,1000,5,0.9,0.01,0.003,exp5.txt
+256,0.001,0.003,200,relu_full_grad,1000,4,0.9,0.01,0.003,exp6.txt
+256,0.001,0.003,200,t_distribution,1000,4,0.9,0.01,0.003,exp7.txt
+256,0.001,0.0003,400,relu,1000,5,0.9,0.01,0.003,exp8.txt
+100,0.001,0.0003,200,relu,1000,7,0.9,0.01,0.003,exp9.txt
+100,0.001,0.003,200,leaky_relu,1000,6,0.9,0.01,0.03,exp10.txt
+100,0.001,0.003,200,sigmoid,1000,6,0.9,0.01,0.03,exp11.txt
+100,0.01,0.001,200,tanh,1000,6,0.9,0.1,0.01,exp12.txt
+256,0.001,0.003,300,relu_full_grad,1000,4,0.9,0.01,0.03,exp13.txt
+512,0.0005,0.003,200,t_distribution,500,3,0.9,0.01,0.03,exp14.txt
+100,0.001,0.0003,100,,1000,3,0.9,0.01,0.003,exp_fashionMnist.txt
